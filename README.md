@@ -12,6 +12,7 @@ This respository holds some of my favorite LeetCode examplars with commentary.
 * **Backtracking** - Word Search (Medium)
 * **Heap** - Last Stone Weight (Easy), Kth Largest Element in an Array (Medium),
 <br/>Find Median from Data Stream (Hard)
+* **Backtracking** - Subsets (Medium)
 
 **Source for Questions:**<br/>
 LeetCode. *LeetCode.* https://leetcode.com/
