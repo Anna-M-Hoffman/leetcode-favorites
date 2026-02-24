@@ -11,7 +11,7 @@ This respository holds some of my favorite LeetCode examplars with commentary.
 * **Tries** - Implement Trie Prefix Tree (Medium), Design Add and Search Word Data Structure (Medium)
 * **Heap** - Last Stone Weight (Easy), Kth Largest Element in an Array (Medium),
 <br/>Find Median from Data Stream (Hard)
-* **Backtracking** - Subsets (Medium), Word Search (Medium)
+* **Backtracking** - Subsets (Medium), Word Search (Medium), N-Queens (Hard)
 
 **Source for Questions:**<br/>
 LeetCode. *LeetCode.* https://leetcode.com/
